@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/Ximyer/tecnolochicas-pro/blob/main/README.md#1-intro)
 * [2. ¿Qué Contruí?](https://github.com/Ximyer/tecnolochicas-pro/blob/main/README.md#2-qu%C3%A9-contru%C3%AD)
-* [3. Objetivo del Proyecto?](#)
+* [3. Objetivo del Proyecto?](https://github.com/Ximyer/tecnolochicas-pro/blob/main/README.md#objetivo-del-proyecto)
 
 ****
 
